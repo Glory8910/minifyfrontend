@@ -1,0 +1,17 @@
+.cardbox{
+    background-color:rgb(220, 238, 253);
+    display: block !important;
+    height: 20vh;
+    width: 25vh;
+    margin:0 auto;
+    border-radius: 20%;
+    padding: 10px;
+    
+}
+h4{
+    display: block !important;
+    text-align: center;
+}
+.btnsize{
+    width: 25vw !important;
+}
